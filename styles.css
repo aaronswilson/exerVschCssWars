@@ -4,12 +4,12 @@ body {
 h1 {
     color: #E2E80F;
     text-align: center;
-    font-size: larger;
+    font-size: 110%;
 }
 p {
     color: #eeeeee;
-    font-size: larger;
-    line-height: 1.5;
+    font-size: 110%;
+    line-height: 110%;
 }
 .credits {
     text-decoration: underline;
@@ -17,6 +17,6 @@ p {
     cursor: pointer;
 }
 #film-description {
-    font-size: smaller;
+    font-size: 90%;
     font-style: italic;
 }
